@@ -1,0 +1,17 @@
+
+.headline .display-4 {
+	margin-top: -380px;
+	font-size: 70px;
+}
+.carousel .slide {
+    font-style: "Lucida Console", "Courier New", monospace;
+} 
+h1 {
+	height: 90px;
+	padding-left: 40px;
+}
+.footer {
+	background-color: #666666;
+	color: white;
+	height: 200px;
+}
